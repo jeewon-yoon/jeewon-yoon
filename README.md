@@ -1,5 +1,6 @@
 ## 안녕하세요. 저의 Github의 방문을 환영합니다! 👋
 
+### 연구자 출신 주니어 데이터 분석가!
 <!--
 **jeewon-yoon/jeewon-yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
