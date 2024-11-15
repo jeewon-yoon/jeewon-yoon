@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요. 저의 Github의 방문을 환영합니다! 👋
 
 <!--
 **jeewon-yoon/jeewon-yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
